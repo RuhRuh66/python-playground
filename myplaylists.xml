@@ -1,0 +1,2955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2016-03-27T22:55:52Z</date>
+	<key>Application Version</key><string>12.3.2.35</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/</string>
+	<key>Library Persistent ID</key><string>31D3DABB986138CD</string>
+	<key>Tracks</key>
+	<dict>
+		<key>167</key>
+		<dict>
+			<key>Track ID</key><integer>167</integer>
+			<key>Name</key><string>Stay together.mp3</string>
+			<key>Artist</key><string>Mr. Big</string>
+			<key>Album</key><string>Big , Bigger , Biggest!</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>3485284</integer>
+			<key>Total Time</key><integer>217808</integer>
+			<key>Date Modified</key><date>2009-04-18T17:15:21Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>834545EB53AA420A</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/Downloads/MP%23/Mr%20Big%20-%20Stay%20Together.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>169</key>
+		<dict>
+			<key>Track ID</key><integer>169</integer>
+			<key>Name</key><string>Right Now (Na Na Na)</string>
+			<key>Artist</key><string>Akon</string>
+			<key>Composer</key><string>HotNewHipHop.com</string>
+			<key>Album</key><string>HotNewHipHop.com</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>5933327</integer>
+			<key>Total Time</key><integer>246961</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Date Modified</key><date>2009-04-18T14:53:26Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>HotNewHipHop.com</string>
+			<key>Persistent ID</key><string>3AE45F2927B3F4F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/Downloads/MP%23/Right%20Now%20(Na%20Na%20Na).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>171</key>
+		<dict>
+			<key>Track ID</key><integer>171</integer>
+			<key>Name</key><string>Single Ladies (New Single)</string>
+			<key>Artist</key><string>Beyonce</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>7919776</integer>
+			<key>Total Time</key><integer>197120</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2009-06-11T23:24:14Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>0</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>178F9ACD35E9407B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/Downloads/MP%23/Single%20Ladies.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>173</key>
+		<dict>
+			<key>Track ID</key><integer>173</integer>
+			<key>Name</key><string>Remember the Titans</string>
+			<key>Artist</key><string>Trevor Rabin</string>
+			<key>Album</key><string>Remember The Titans (Promo Score)</string>
+			<key>Genre</key><string>サウンドトラック</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>5554176</integer>
+			<key>Total Time</key><integer>138814</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2007-06-26T16:11:20Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DDA854E556417D3B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/Downloads/MP%23/Trevor%20Rabin%20-%20Remember%20the%20Titans%20(Promo%20Score)/01%20-%20Remember%20The%20Titans.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>175</key>
+		<dict>
+			<key>Track ID</key><integer>175</integer>
+			<key>Name</key><string>Gettysberg</string>
+			<key>Artist</key><string>Trevor Rabin</string>
+			<key>Album</key><string>Remember The Titans (Promo Score)</string>
+			<key>Genre</key><string>サウンドトラック</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>3182592</integer>
+			<key>Total Time</key><integer>79516</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2007-06-26T16:11:22Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3A2F1E16892F037E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/Downloads/MP%23/Trevor%20Rabin%20-%20Remember%20the%20Titans%20(Promo%20Score)/02%20-%20Gettysberg.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>177</key>
+		<dict>
+			<key>Track ID</key><integer>177</integer>
+			<key>Name</key><string>The Game</string>
+			<key>Artist</key><string>Trevor Rabin</string>
+			<key>Album</key><string>Remember The Titans (Promo Score)</string>
+			<key>Genre</key><string>サウンドトラック</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>11466752</integer>
+			<key>Total Time</key><integer>286641</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2007-06-26T16:11:26Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>Game</string>
+			<key>Persistent ID</key><string>1983F710CC340132</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/Downloads/MP%23/Trevor%20Rabin%20-%20Remember%20the%20Titans%20(Promo%20Score)/03%20-%20The%20Game.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>179</key>
+		<dict>
+			<key>Track ID</key><integer>179</integer>
+			<key>Name</key><string>Integration</string>
+			<key>Artist</key><string>Trevor Rabin</string>
+			<key>Album</key><string>Remember The Titans (Promo Score)</string>
+			<key>Genre</key><string>サウンドトラック</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>3043328</integer>
+			<key>Total Time</key><integer>76042</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2007-06-26T16:11:30Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>66EB223246EDAEEF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/Downloads/MP%23/Trevor%20Rabin%20-%20Remember%20the%20Titans%20(Promo%20Score)/04%20-%20Integration.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>181</key>
+		<dict>
+			<key>Track ID</key><integer>181</integer>
+			<key>Name</key><string>T.C. Williams</string>
+			<key>Artist</key><string>Trevor Rabin</string>
+			<key>Album</key><string>Remember The Titans (Promo Score)</string>
+			<key>Genre</key><string>サウンドトラック</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>5963776</integer>
+			<key>Total Time</key><integer>149054</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2007-06-26T16:11:32Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F94F9DD42BBE7B83</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/Downloads/MP%23/Trevor%20Rabin%20-%20Remember%20the%20Titans%20(Promo%20Score)/05%20-%20T.C.%20Williams.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>183</key>
+		<dict>
+			<key>Track ID</key><integer>183</integer>
+			<key>Name</key><string>Virginia</string>
+			<key>Artist</key><string>Trevor Rabin</string>
+			<key>Album</key><string>Remember The Titans (Promo Score)</string>
+			<key>Genre</key><string>サウンドトラック</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>3921920</integer>
+			<key>Total Time</key><integer>98037</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2007-06-26T16:11:36Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3F8534AA17AA0E0B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/Downloads/MP%23/Trevor%20Rabin%20-%20Remember%20the%20Titans%20(Promo%20Score)/06%20-%20Virginia.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>185</key>
+		<dict>
+			<key>Track ID</key><integer>185</integer>
+			<key>Name</key><string>The Hospital</string>
+			<key>Artist</key><string>Trevor Rabin</string>
+			<key>Album</key><string>Remember The Titans (Promo Score)</string>
+			<key>Genre</key><string>サウンドトラック</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>4483072</integer>
+			<key>Total Time</key><integer>112039</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2007-06-26T16:11:38Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>Hospital</string>
+			<key>Persistent ID</key><string>A112B4EA13B78162</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/Downloads/MP%23/Trevor%20Rabin%20-%20Remember%20the%20Titans%20(Promo%20Score)/07%20-%20The%20Hospital.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>187</key>
+		<dict>
+			<key>Track ID</key><integer>187</integer>
+			<key>Name</key><string>Titans Spirit</string>
+			<key>Artist</key><string>Trevor Rabin</string>
+			<key>Album</key><string>Remember The Titans (Promo Score)</string>
+			<key>Genre</key><string>サウンドトラック</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>3362816</integer>
+			<key>Total Time</key><integer>84035</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2007-06-26T16:11:40Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E39881DE79416660</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/Downloads/MP%23/Trevor%20Rabin%20-%20Remember%20the%20Titans%20(Promo%20Score)/08%20-%20Titan%20Spirit.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>189</key>
+		<dict>
+			<key>Track ID</key><integer>189</integer>
+			<key>Name</key><string>Black and White</string>
+			<key>Artist</key><string>Trevor Rabin</string>
+			<key>Album</key><string>Remember The Titans (Promo Score)</string>
+			<key>Genre</key><string>サウンドトラック</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>3043328</integer>
+			<key>Total Time</key><integer>76042</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2007-06-26T16:11:42Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4240EBAC344431A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/Downloads/MP%23/Trevor%20Rabin%20-%20Remember%20the%20Titans%20(Promo%20Score)/09%20-%20Black%20and%20White.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>191</key>
+		<dict>
+			<key>Track ID</key><integer>191</integer>
+			<key>Name</key><string>On the Bus</string>
+			<key>Artist</key><string>Trevor Rabin</string>
+			<key>Album</key><string>Remember The Titans (Promo Score)</string>
+			<key>Genre</key><string>サウンドトラック</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>4642816</integer>
+			<key>Total Time</key><integer>116035</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2007-06-26T16:11:48Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>45F6B6508EAC4566</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/Downloads/MP%23/Trevor%20Rabin%20-%20Remember%20the%20Titans%20(Promo%20Score)/10%20-%20On%20the%20Bus.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>193</key>
+		<dict>
+			<key>Track ID</key><integer>193</integer>
+			<key>Name</key><string>The Field</string>
+			<key>Artist</key><string>Trevor Rabin</string>
+			<key>Album</key><string>Remember The Titans (Promo Score)</string>
+			<key>Genre</key><string>サウンドトラック</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>6363136</integer>
+			<key>Total Time</key><integer>159033</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2007-06-26T16:11:52Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Name</key><string>Field</string>
+			<key>Persistent ID</key><string>E0667D3E563E7968</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/Downloads/MP%23/Trevor%20Rabin%20-%20Remember%20the%20Titans%20(Promo%20Score)/11%20-%20The%20Field.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>195</key>
+		<dict>
+			<key>Track ID</key><integer>195</integer>
+			<key>Name</key><string>Boone and Yoast</string>
+			<key>Artist</key><string>Trevor Rabin</string>
+			<key>Album</key><string>Remember The Titans (Promo Score)</string>
+			<key>Genre</key><string>サウンドトラック</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>6041600</integer>
+			<key>Total Time</key><integer>151013</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2007-06-26T16:11:54Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>69B26EFA11206C77</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/Downloads/MP%23/Trevor%20Rabin%20-%20Remember%20the%20Titans%20(Promo%20Score)/12%20-%20Boone%20and%20Yoast.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>197</key>
+		<dict>
+			<key>Track ID</key><integer>197</integer>
+			<key>Name</key><string>Bonustrack - Remember The Titans (Album Suite)</string>
+			<key>Artist</key><string>Trevor Rabin</string>
+			<key>Album</key><string>Remember The Titans (Promo Score)</string>
+			<key>Genre</key><string>サウンドトラック</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>10747904</integer>
+			<key>Total Time</key><integer>447791</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2007-06-26T16:33:10Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2CE6ADA3A7983E21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/Downloads/MP%23/Trevor%20Rabin%20-%20Remember%20the%20Titans%20(Promo%20Score)/13%20-%20Bonustrack%20-%20Titans%20Spirit%20(Commercial%20Album%20Suite).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>199</key>
+		<dict>
+			<key>Track ID</key><integer>199</integer>
+			<key>Name</key><string>6min: Happiness 09 Apr 09</string>
+			<key>Artist</key><string>Podcast</string>
+			<key>Album</key><string>6 Minute English</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>3021297</integer>
+			<key>Total Time</key><integer>370991</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-04-09T11:00:00Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>In this programme, we're going to talk about happiness and where we can find it, especially when times are hard.</string>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>5E0C416F852C98F5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/My%20Podcasts/6%20Minute%20English/how2_20090409-1200a.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>201</key>
+		<dict>
+			<key>Track ID</key><integer>201</integer>
+			<key>Name</key><string>6 Min - Staycation 16 Apr 09</string>
+			<key>Artist</key><string>Podcast</string>
+			<key>Album</key><string>6 Minute English</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>3019396</integer>
+			<key>Total Time</key><integer>370625</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-04-16T11:00:00Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>As the credit crunch bites, more and more of us are considering whether we can actually justify the cost of a holiday abroad. The 'staycation' is a relatively new phrase that has been coined to describe a holiday or vacation where you stay in the comfort </string>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>1D555841C0BBE010</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/My%20Podcasts/6%20Minute%20English/how2_20090416-1200a.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>203</key>
+		<dict>
+			<key>Track ID</key><integer>203</integer>
+			<key>Name</key><string>Discovery: Oceans: What Lies Beneath (2)</string>
+			<key>Artist</key><string>Podcast</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>12858690</integer>
+			<key>Total Time</key><integer>1598093</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-04-08T09:32:00Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>The Deep Ocean.  Gabrielle Walker talks to the scientists who have visited the last great unexplored frontier on the planet.</string>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>FA0260013C6D2DBC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/My%20Podcasts/Discovery/discovery_20090408-1032a.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>205</key>
+		<dict>
+			<key>Track ID</key><integer>205</integer>
+			<key>Name</key><string>Discovery: Oceans - What Lies Beneath (3) 15 Apr 09</string>
+			<key>Artist</key><string>Podcast</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>12911854</integer>
+			<key>Total Time</key><integer>1604728</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-04-15T09:32:00Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Gabrielle Walker meets scientists who are trawling the ocean and its flora and fauna for new compounds, chemicals and novel gene sequences that could provide biotech companies with a wealth of raw material from which to create new medicines.  Gold and oth</string>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>1F4B9B4395BAA8BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/My%20Podcasts/Discovery/discovery_20090415-1032a.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>207</key>
+		<dict>
+			<key>Track ID</key><integer>207</integer>
+			<key>Name</key><string>GC: Used to 10 Apr 09</string>
+			<key>Artist</key><string>Podcast</string>
+			<key>Album</key><string>Grammar Challenge (Learn English)</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>3045310</integer>
+			<key>Total Time</key><integer>370782</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-04-10T11:00:00Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>When talking about things that we did in the past but don't do now we can use the expression 'used to'. Mi Jung takes the challenge and checks her understanding of this area of grammar.</string>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>61A5DE53189D55F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/My%20Podcasts/Grammar%20Challenge%20(Learn%20English)/gc_20090410-1200a.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>209</key>
+		<dict>
+			<key>Track ID</key><integer>209</integer>
+			<key>Name</key><string>GC: Time prepositions 17 Apr 09</string>
+			<key>Artist</key><string>Podcast</string>
+			<key>Album</key><string>Grammar Challenge (Learn English)</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>3046007</integer>
+			<key>Total Time</key><integer>370729</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-04-17T11:00:00Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Prepositions are small grammatical words that usually go before nouns and pronouns. There are many different prepositions that are used to describe where things are, how things happen and when things happen, for example. In this Grammar Challenge we focus</string>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>687A1E100344A5BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/My%20Podcasts/Grammar%20Challenge%20(Learn%20English)/gc_20090417-1200a.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>211</key>
+		<dict>
+			<key>Track ID</key><integer>211</integer>
+			<key>Name</key><string>HealthC: Lifespan and social status 05 May 09</string>
+			<key>Artist</key><string>Podcast</string>
+			<key>Album</key><string>Health Check</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>12932340</integer>
+			<key>Total Time</key><integer>1604101</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-04-06T09:32:00Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Why your boss will probably live longer than you. Claudia Hammond interviews epidemiologist, Professor Michael Marmot, the man who transformed the way we think about jobs, stress and illness. He explains why your social standing is crucially linked to you</string>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>ABF069002CF056CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/My%20Podcasts/Health%20Check/healthc_20090406-1032a.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>213</key>
+		<dict>
+			<key>Track ID</key><integer>213</integer>
+			<key>Name</key><string>HealthC: President Obama &#38; US Health Reforms 12 Apr 09</string>
+			<key>Artist</key><string>Podcast</string>
+			<key>Album</key><string>Health Check</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>12841434</integer>
+			<key>Total Time</key><integer>1592737</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2009-04-13T09:32:00Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:39Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Health reforms in the US. How will President Obama help the 45 million people without health insurance and reform the health system so everyone has access to affordable health care?</string>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>F01BB076DFE726ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/My%20Podcasts/Health%20Check/healthc_20090413-1032a.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>215</key>
+		<dict>
+			<key>Track ID</key><integer>215</integer>
+			<key>Name</key><string>録音1</string>
+			<key>Kind</key><string>WAV オーディオファイル</string>
+			<key>Size</key><integer>524336</integer>
+			<key>Total Time</key><integer>2972</integer>
+			<key>Date Modified</key><date>2009-04-03T01:58:10Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:40Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>629B14A44617FF04</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Documents/uhratta%20%E3%81%AE%20PDA%202%20%E3%81%AE%E6%96%87%E6%9B%B8/%E9%8C%B2%E9%9F%B31.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>217</key>
+		<dict>
+			<key>Track ID</key><integer>217</integer>
+			<key>Name</key><string>shutdown</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>13465</integer>
+			<key>Total Time</key><integer>1097</integer>
+			<key>Date Modified</key><date>2009-04-12T23:26:26Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:40Z</date>
+			<key>Bit Rate</key><integer>89</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3B4D5A21934F36EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Desktop/Download%20files/English/moonshl/skin/shutdown.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>219</key>
+		<dict>
+			<key>Track ID</key><integer>219</integer>
+			<key>Name</key><string>startup</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>15640</integer>
+			<key>Total Time</key><integer>1619</integer>
+			<key>Date Modified</key><date>2009-04-12T23:26:26Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:40Z</date>
+			<key>Bit Rate</key><integer>71</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Persistent ID</key><string>2C896891384828E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/uhratta/Desktop/Download%20files/English/moonshl/skin/startup.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>227</key>
+		<dict>
+			<key>Track ID</key><integer>227</integer>
+			<key>Name</key><string>Amanda</string>
+			<key>Artist</key><string>Aisha Duo</string>
+			<key>Album Artist</key><string>Aisha Duo</string>
+			<key>Composer</key><string>Luca Gusella</string>
+			<key>Album</key><string>Quiet Songs</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>7970971</integer>
+			<key>Total Time</key><integer>246503</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2011-06-09T09:46:57Z</date>
+			<key>Date Added</key><date>2009-04-18T17:40:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>"Amanda" performed by Aisha Duo from the CD Quiet Songs, courtesy of Obliq Sound.  Written by Luca Gusella, published by Editions ObliqMusic (GEMA).  All Rights Reserved.  Used by Permission. </string>
+			<key>Normalization</key><integer>859</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C82FA2AC3B65E903</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Aisha%20Duo/Quiet%20Songs/17%20Amanda.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>229</key>
+		<dict>
+			<key>Track ID</key><integer>229</integer>
+			<key>Name</key><string>Stay Together</string>
+			<key>Artist</key><string>Mr. Big</string>
+			<key>Album Artist</key><string>Mr. Big</string>
+			<key>Album</key><string>Big, Bigger, Biggest! - The Best of Mr. Big</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>保護された AAC オーディオファイル</string>
+			<key>Size</key><integer>3722562</integer>
+			<key>Total Time</key><integer>215800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2014-10-03T00:13:48Z</date>
+			<key>Date Added</key><date>2009-04-18T22:13:28Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>73</integer>
+			<key>Play Date</key><integer>3507092797</integer>
+			<key>Play Date UTC</key><date>2015-02-17T23:26:37Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-02-17T23:26:41Z</date>
+			<key>Release Date</key><date>1996-01-01T12:00:00Z</date>
+			<key>Normalization</key><integer>8557</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>69AAA98E0D9788C3</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Mr.%20Big/Big,%20Bigger,%20Biggest!%20-%20The%20Best%20of%20Mr_/16%20Stay%20Together.m4p</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>231</key>
+		<dict>
+			<key>Track ID</key><integer>231</integer>
+			<key>Name</key><string>Stay Together</string>
+			<key>Artist</key><string>Mr. Big</string>
+			<key>Album Artist</key><string>Mr. Big</string>
+			<key>Album</key><string>Big, Bigger, Biggest! - The Best of Mr. Big</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>保護された AAC オーディオファイル</string>
+			<key>Size</key><integer>3722562</integer>
+			<key>Total Time</key><integer>215800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2009-04-18T22:13:36Z</date>
+			<key>Date Added</key><date>2009-04-19T01:36:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3376025582</integer>
+			<key>Play Date UTC</key><date>2010-12-23T23:53:02Z</date>
+			<key>Release Date</key><date>1996-01-01T12:00:00Z</date>
+			<key>Normalization</key><integer>8557</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>44493E895C1C47D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>C:%2FUsers%2Fuhratta%2FMusic%2FiTunes%2FiTunes%20Music%2FMr.%20Big%2FBig,%20Bigger,%20Biggest!%20-%20The%20Best%20of%20Mr_%2F16%20Stay%20Together.m4p</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>233</key>
+		<dict>
+			<key>Track ID</key><integer>233</integer>
+			<key>Name</key><string>20111002[1]</string>
+			<key>Genre</key><string>その他</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>34695653</integer>
+			<key>Total Time</key><integer>2168476</integer>
+			<key>Date Modified</key><date>2011-10-21T23:34:11Z</date>
+			<key>Date Added</key><date>2011-10-21T23:34:18Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>26D2DFD0FFCA41EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.IE5/NBV6QJPR/20111002%5B1%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>235</key>
+		<dict>
+			<key>Track ID</key><integer>235</integer>
+			<key>Name</key><string>Welcome to the Jungle</string>
+			<key>Artist</key><string>ガンズ・アンド・ローゼズ</string>
+			<key>Album Artist</key><string>ガンズ・アンド・ローゼズ</string>
+			<key>Composer</key><string>Jeffrey Isbell, Michael McKagan, Saul Hudson, Steven Adler &#38; W. Axl Rose</string>
+			<key>Album</key><string>Appetite for Destruction</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>9511380</integer>
+			<key>Total Time</key><integer>273600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2015-08-20T23:31:02Z</date>
+			<key>Date Added</key><date>2012-09-14T05:08:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3448014975</integer>
+			<key>Play Date UTC</key><date>2013-04-05T04:56:15Z</date>
+			<key>Release Date</key><date>1987-01-01T00:00:00Z</date>
+			<key>Normalization</key><integer>3631</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>がんず・あんど ろーぜず</string>
+			<key>Persistent ID</key><string>E60FE4B31A7F9EDB</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/%E3%82%AC%E3%83%B3%E3%82%BA%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BC%E3%82%BA/Appetite%20for%20Destruction/01%20Welcome%20to%20the%20Jungle.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>237</key>
+		<dict>
+			<key>Track ID</key><integer>237</integer>
+			<key>Name</key><string>Immigrant Song</string>
+			<key>Artist</key><string>Led Zeppelin</string>
+			<key>Album Artist</key><string>Led Zeppelin</string>
+			<key>Album</key><string>レッド・ツェッペリンⅢ</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>5883286</integer>
+			<key>Total Time</key><integer>145066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1970</integer>
+			<key>Date Modified</key><date>2012-09-14T05:33:03Z</date>
+			<key>Date Added</key><date>2012-09-14T05:32:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3448018149</integer>
+			<key>Play Date UTC</key><date>2013-04-05T05:49:09Z</date>
+			<key>Release Date</key><date>1970-10-05T07:00:00Z</date>
+			<key>Normalization</key><integer>2280</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>れっど・つぇっぺりんⅢ</string>
+			<key>Persistent ID</key><string>E8EB614B0F21DFCE</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Led%20Zeppelin/%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%83%84%E3%82%A7%E3%83%83%E3%83%9A%E3%83%AA%E3%83%B3%E2%85%A2/01%20Immigrant%20Song.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>239</key>
+		<dict>
+			<key>Track ID</key><integer>239</integer>
+			<key>Name</key><string>Sympathy for the Devil</string>
+			<key>Artist</key><string>ザ・ローリング・ストーンズ</string>
+			<key>Album Artist</key><string>ザ・ローリング・ストーンズ</string>
+			<key>Composer</key><string>Keith Richards &#38; Mick Jagger</string>
+			<key>Album</key><string>Beggars Banquet</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>14603683</integer>
+			<key>Total Time</key><integer>377746</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1968</integer>
+			<key>Date Modified</key><date>2015-09-05T02:43:04Z</date>
+			<key>Date Added</key><date>2012-09-14T05:34:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3441783287</integer>
+			<key>Play Date UTC</key><date>2013-01-23T01:54:47Z</date>
+			<key>Release Date</key><date>1968-11-01T00:00:00Z</date>
+			<key>Normalization</key><integer>2644</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>ざ・ろーりんぐ・すとーんず</string>
+			<key>Persistent ID</key><string>71B66114A925821E</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/%E3%82%B6%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%82%BA/Beggars%20Banquet/01%20Sympathy%20for%20the%20Devil.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>241</key>
+		<dict>
+			<key>Track ID</key><integer>241</integer>
+			<key>Name</key><string>Can't Stop Lovin' You</string>
+			<key>Artist</key><string>Van Halen</string>
+			<key>Album Artist</key><string>Van Halen</string>
+			<key>Album</key><string>The Best of Both Worlds</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>8983645</integer>
+			<key>Total Time</key><integer>248200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2015-02-15T00:06:20Z</date>
+			<key>Date Added</key><date>2012-09-14T06:20:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>105</integer>
+			<key>Play Date</key><integer>3507092488</integer>
+			<key>Play Date UTC</key><date>2015-02-17T23:21:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-04-04T23:37:45Z</date>
+			<key>Release Date</key><date>2004-07-20T07:00:00Z</date>
+			<key>Normalization</key><integer>9720</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best of Both Worlds</string>
+			<key>Persistent ID</key><string>533FBA014BF72114</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Van%20Halen/The%20Best%20of%20Both%20Worlds/1-18%20Can't%20Stop%20Lovin'%20You.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>243</key>
+		<dict>
+			<key>Track ID</key><integer>243</integer>
+			<key>Name</key><string>I Was Born to Love You</string>
+			<key>Artist</key><string>クイーン</string>
+			<key>Album Artist</key><string>クイーン</string>
+			<key>Composer</key><string>フレディ・マーキュリー</string>
+			<key>Album</key><string>Made In Heaven (Remastered)</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>10166212</integer>
+			<key>Total Time</key><integer>289813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2012-09-14T06:30:43Z</date>
+			<key>Date Added</key><date>2012-09-14T06:30:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3448014701</integer>
+			<key>Play Date UTC</key><date>2013-04-05T04:51:41Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2013-04-05T04:56:19Z</date>
+			<key>Release Date</key><date>1995-11-07T00:00:00Z</date>
+			<key>Normalization</key><integer>5622</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>くいーん</string>
+			<key>Persistent ID</key><string>EF31AF81415E853C</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3/Made%20In%20Heaven%20(Remastered)/06%20I%20Was%20Born%20to%20Love%20You.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>245</key>
+		<dict>
+			<key>Track ID</key><integer>245</integer>
+			<key>Name</key><string>虹 (A DAY IN JAPAN ver)</string>
+			<key>Artist</key><string>電気グルーヴ</string>
+			<key>Album Artist</key><string>電気グルーヴ</string>
+			<key>Composer</key><string>石野卓球</string>
+			<key>Album</key><string>電気グルーヴのゴールデンヒッツ~Due To Contract</string>
+			<key>Genre</key><string>エレクトロニック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>11026914</integer>
+			<key>Total Time</key><integer>305000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2014-02-26T03:59:08Z</date>
+			<key>Date Added</key><date>2014-02-26T03:58:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3480742979</integer>
+			<key>Play Date UTC</key><date>2014-04-19T00:02:59Z</date>
+			<key>Release Date</key><date>2011-04-06T07:00:00Z</date>
+			<key>Normalization</key><integer>2601</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>でんきぐるーゔのごーるでんひっつどゅーとぅーこんとらくと</string>
+			<key>Sort Artist</key><string>でんきぐるーゔ</string>
+			<key>Sort Name</key><string>にじあでいいんじゃぱん</string>
+			<key>Persistent ID</key><string>A3703ED40D178486</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4%E3%81%AE%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%83%92%E3%83%83%E3%83%84~Due%20To%20Contract/03%20%E8%99%B9%20(A%20DAY%20IN%20JAPAN%20ver).m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>279</key>
+		<dict>
+			<key>Track ID</key><integer>279</integer>
+			<key>Name</key><string>Welcome to the Jungle (Explicit)</string>
+			<key>Artist</key><string>ガンズ・アンド・ローゼズ</string>
+			<key>Album Artist</key><string>ガンズ・アンド・ローゼズ</string>
+			<key>Composer</key><string>Jeffrey Isbell, Michael McKagan, Saul Hudson, Steven Adler &#38; W. Axl Rose</string>
+			<key>Album</key><string>Guns N' Roses: Greatest Hits</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>9840019</integer>
+			<key>Total Time</key><integer>271866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2015-12-16T04:57:33Z</date>
+			<key>Date Added</key><date>2015-02-22T22:45:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>((Explicit))</string>
+			<key>Release Date</key><date>2003-10-27T08:00:00Z</date>
+			<key>Normalization</key><integer>7296</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>がんず・あんど ろーぜず</string>
+			<key>Persistent ID</key><string>475FF0AB1F9A03FC</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/%E3%82%AC%E3%83%B3%E3%82%BA%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BC%E3%82%BA/Guns%20N'%20Roses_%20Greatest%20Hits/01%20Welcome%20to%20the%20Jungle%20(Explicit).m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>281</key>
+		<dict>
+			<key>Track ID</key><integer>281</integer>
+			<key>Name</key><string>Delicatessen Générique début</string>
+			<key>Artist</key><string>Carlos D'Alessio</string>
+			<key>Album Artist</key><string>Carlos D'Alessio</string>
+			<key>Composer</key><string>Carlos D'Alessio</string>
+			<key>Album</key><string>Delicatessen</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>5262411</integer>
+			<key>Total Time</key><integer>162733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2015-03-22T23:14:08Z</date>
+			<key>Date Added</key><date>2015-03-22T23:13:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2719</integer>
+			<key>Persistent ID</key><string>15F350013728516E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Carlos%20D'Alessio/Delicatessen/01%20Delicatessen%20G%C3%A9n%C3%A9rique%20d%C3%A9but.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>283</key>
+		<dict>
+			<key>Track ID</key><integer>283</integer>
+			<key>Name</key><string>Tika Tika Walk</string>
+			<key>Artist</key><string>Carlos D'Alessio</string>
+			<key>Album Artist</key><string>Carlos D'Alessio</string>
+			<key>Composer</key><string>Carlos D'Alessio</string>
+			<key>Album</key><string>Delicatessen</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>5924086</integer>
+			<key>Total Time</key><integer>168106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2015-03-22T23:14:19Z</date>
+			<key>Date Added</key><date>2015-03-22T23:14:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1102</integer>
+			<key>Persistent ID</key><string>4744383F0976F145</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Carlos%20D'Alessio/Delicatessen/02%20Tika%20Tika%20Walk.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>285</key>
+		<dict>
+			<key>Track ID</key><integer>285</integer>
+			<key>Name</key><string>Les Bulles</string>
+			<key>Artist</key><string>Carlos D'Alessio</string>
+			<key>Album Artist</key><string>Carlos D'Alessio</string>
+			<key>Composer</key><string>Carlos D'Alessio</string>
+			<key>Album</key><string>Delicatessen</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>5980043</integer>
+			<key>Total Time</key><integer>184266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2015-03-22T23:14:30Z</date>
+			<key>Date Added</key><date>2015-03-22T23:14:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>938</integer>
+			<key>Persistent ID</key><string>AE773B69856AEAB7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Carlos%20D'Alessio/Delicatessen/03%20Les%20Bulles.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>287</key>
+		<dict>
+			<key>Track ID</key><integer>287</integer>
+			<key>Name</key><string>Baiser Sous L'Eau</string>
+			<key>Artist</key><string>Carlos D'Alessio</string>
+			<key>Album Artist</key><string>Carlos D'Alessio</string>
+			<key>Composer</key><string>Carlos D'Alessio</string>
+			<key>Album</key><string>Delicatessen</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>6992169</integer>
+			<key>Total Time</key><integer>217000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2015-03-22T23:14:40Z</date>
+			<key>Date Added</key><date>2015-03-22T23:14:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1008</integer>
+			<key>Persistent ID</key><string>8FA2AF43DB881429</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Carlos%20D'Alessio/Delicatessen/04%20Baiser%20Sous%20L'Eau.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>289</key>
+		<dict>
+			<key>Track ID</key><integer>289</integer>
+			<key>Name</key><string>La Valise</string>
+			<key>Artist</key><string>Carlos D'Alessio</string>
+			<key>Album Artist</key><string>Carlos D'Alessio</string>
+			<key>Composer</key><string>Carlos D'Alessio</string>
+			<key>Album</key><string>Delicatessen</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>5300461</integer>
+			<key>Total Time</key><integer>163866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2015-03-22T23:14:50Z</date>
+			<key>Date Added</key><date>2015-03-22T23:14:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>571</integer>
+			<key>Persistent ID</key><string>0C1BDD84F09B6C0B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Carlos%20D'Alessio/Delicatessen/05%20La%20Valise.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>291</key>
+		<dict>
+			<key>Track ID</key><integer>291</integer>
+			<key>Name</key><string>Duo</string>
+			<key>Artist</key><string>Carlos D'Alessio</string>
+			<key>Album Artist</key><string>Carlos D'Alessio</string>
+			<key>Composer</key><string>Carlos D'Alessio</string>
+			<key>Album</key><string>Delicatessen</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>5038454</integer>
+			<key>Total Time</key><integer>154626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2015-03-22T23:14:59Z</date>
+			<key>Date Added</key><date>2015-03-22T23:14:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>836</integer>
+			<key>Persistent ID</key><string>53F7B3AE5140FE7C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Carlos%20D'Alessio/Delicatessen/06%20Duo.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>293</key>
+		<dict>
+			<key>Track ID</key><integer>293</integer>
+			<key>Name</key><string>Circus Delire</string>
+			<key>Artist</key><string>Carlos D'Alessio</string>
+			<key>Album Artist</key><string>Carlos D'Alessio</string>
+			<key>Composer</key><string>Carlos D'Alessio</string>
+			<key>Album</key><string>Delicatessen</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>4565057</integer>
+			<key>Total Time</key><integer>139333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2015-03-22T23:15:05Z</date>
+			<key>Date Added</key><date>2015-03-22T23:15:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1248</integer>
+			<key>Persistent ID</key><string>346CB0E7D1D91D34</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Carlos%20D'Alessio/Delicatessen/07%20Circus%20Delire.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>295</key>
+		<dict>
+			<key>Track ID</key><integer>295</integer>
+			<key>Name</key><string>Valse Accordeon</string>
+			<key>Artist</key><string>Carlos D'Alessio</string>
+			<key>Album Artist</key><string>Carlos D'Alessio</string>
+			<key>Composer</key><string>Carlos D'Alessio</string>
+			<key>Album</key><string>Delicatessen</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>5853733</integer>
+			<key>Total Time</key><integer>180933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2015-03-22T23:15:15Z</date>
+			<key>Date Added</key><date>2015-03-22T23:15:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>480</integer>
+			<key>Persistent ID</key><string>DCF05BB6EC2CBE9F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Carlos%20D'Alessio/Delicatessen/08%20Valse%20Accordeon.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>297</key>
+		<dict>
+			<key>Track ID</key><integer>297</integer>
+			<key>Name</key><string>Una Lagrima Tuya</string>
+			<key>Artist</key><string>Carlos D'Alessio</string>
+			<key>Album Artist</key><string>Carlos D'Alessio</string>
+			<key>Composer</key><string>Carlos D'Alessio</string>
+			<key>Album</key><string>Delicatessen</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>5967933</integer>
+			<key>Total Time</key><integer>178933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2015-03-22T23:15:24Z</date>
+			<key>Date Added</key><date>2015-03-22T23:15:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>706</integer>
+			<key>Persistent ID</key><string>90763F5694A70EDF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Carlos%20D'Alessio/Delicatessen/09%20Una%20Lagrima%20Tuya.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>299</key>
+		<dict>
+			<key>Track ID</key><integer>299</integer>
+			<key>Name</key><string>Bongo Bolero</string>
+			<key>Artist</key><string>Carlos D'Alessio</string>
+			<key>Album Artist</key><string>Carlos D'Alessio</string>
+			<key>Composer</key><string>Carlos D'Alessio</string>
+			<key>Album</key><string>Delicatessen</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>6538338</integer>
+			<key>Total Time</key><integer>198200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2015-03-22T23:15:34Z</date>
+			<key>Date Added</key><date>2015-03-22T23:15:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>970</integer>
+			<key>Persistent ID</key><string>4012182D0D046A41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Carlos%20D'Alessio/Delicatessen/10%20Bongo%20Bolero.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>301</key>
+		<dict>
+			<key>Track ID</key><integer>301</integer>
+			<key>Name</key><string>Dreams Of Old Hawai</string>
+			<key>Artist</key><string>Carlos D'Alessio</string>
+			<key>Album Artist</key><string>Carlos D'Alessio</string>
+			<key>Composer</key><string>Carlos D'Alessio</string>
+			<key>Album</key><string>Delicatessen</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>5759171</integer>
+			<key>Total Time</key><integer>172373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2015-03-22T23:15:42Z</date>
+			<key>Date Added</key><date>2015-03-22T23:15:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>864</integer>
+			<key>Persistent ID</key><string>6C1726FA30B0E85D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Carlos%20D'Alessio/Delicatessen/11%20Dreams%20Of%20Old%20Hawai.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>303</key>
+		<dict>
+			<key>Track ID</key><integer>303</integer>
+			<key>Name</key><string>Patty Cake Bakerman</string>
+			<key>Artist</key><string>Carlos D'Alessio</string>
+			<key>Album Artist</key><string>Carlos D'Alessio</string>
+			<key>Composer</key><string>Carlos D'Alessio</string>
+			<key>Album</key><string>Delicatessen</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>5530933</integer>
+			<key>Total Time</key><integer>163000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2015-03-22T23:15:48Z</date>
+			<key>Date Added</key><date>2015-03-22T23:15:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>986</integer>
+			<key>Persistent ID</key><string>4FC16BA7F76805A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Carlos%20D'Alessio/Delicatessen/12%20Patty%20Cake%20Bakerman.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>305</key>
+		<dict>
+			<key>Track ID</key><integer>305</integer>
+			<key>Name</key><string>The Streets Of Paris</string>
+			<key>Artist</key><string>Carlos D'Alessio</string>
+			<key>Album Artist</key><string>Carlos D'Alessio</string>
+			<key>Composer</key><string>Carlos D'Alessio</string>
+			<key>Album</key><string>Delicatessen</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>5114061</integer>
+			<key>Total Time</key><integer>156666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2015-03-22T23:15:55Z</date>
+			<key>Date Added</key><date>2015-03-22T23:15:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>804</integer>
+			<key>Sort Name</key><string>Streets Of Paris</string>
+			<key>Persistent ID</key><string>6325C9299A937ACB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Carlos%20D'Alessio/Delicatessen/13%20The%20Streets%20Of%20Paris.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>307</key>
+		<dict>
+			<key>Track ID</key><integer>307</integer>
+			<key>Name</key><string>Medaille D'Honneur</string>
+			<key>Artist</key><string>Carlos D'Alessio</string>
+			<key>Album Artist</key><string>Carlos D'Alessio</string>
+			<key>Composer</key><string>Carlos D'Alessio</string>
+			<key>Album</key><string>Delicatessen</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>6188098</integer>
+			<key>Total Time</key><integer>189026</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2015-03-22T23:16:04Z</date>
+			<key>Date Added</key><date>2015-03-22T23:15:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>921</integer>
+			<key>Persistent ID</key><string>63E508888348CCFD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Carlos%20D'Alessio/Delicatessen/14%20Medaille%20D'Honneur.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>309</key>
+		<dict>
+			<key>Track ID</key><integer>309</integer>
+			<key>Name</key><string>Entry Of The Gladiators</string>
+			<key>Artist</key><string>Carlos D'Alessio</string>
+			<key>Album Artist</key><string>Carlos D'Alessio</string>
+			<key>Composer</key><string>Carlos D'Alessio</string>
+			<key>Album</key><string>Delicatessen</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>5323299</integer>
+			<key>Total Time</key><integer>163840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2015-03-22T23:16:12Z</date>
+			<key>Date Added</key><date>2015-03-22T23:16:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1105</integer>
+			<key>Persistent ID</key><string>CBBDC4F04F10F4E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Carlos%20D'Alessio/Delicatessen/15%20Entry%20Of%20The%20Gladiators.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>311</key>
+		<dict>
+			<key>Track ID</key><integer>311</integer>
+			<key>Name</key><string>Delicatessen Générique fin</string>
+			<key>Artist</key><string>Carlos D'Alessio</string>
+			<key>Album Artist</key><string>Carlos D'Alessio</string>
+			<key>Composer</key><string>Carlos D'Alessio</string>
+			<key>Album</key><string>Delicatessen</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>10686391</integer>
+			<key>Total Time</key><integer>308626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2015-03-22T23:16:23Z</date>
+			<key>Date Added</key><date>2015-03-22T23:16:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Persistent ID</key><string>BC6D19C76D4F0448</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/toruh/Music/iTunes/iTunes%20Music/Carlos%20D'Alessio/Delicatessen/16%20Delicatessen%20G%C3%A9n%C3%A9rique%20fin.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>313</key>
+		<dict>
+			<key>Track ID</key><integer>313</integer>
+			<key>Name</key><string>Sleep Like a Baby Tonight</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>10414554</integer>
+			<key>Total Time</key><integer>301641</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-11T15:21:07Z</date>
+			<key>Date Added</key><date>2014-09-11T15:21:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>ゆ-つ-</string>
+			<key>Sort Name</key><string>Sleep Like a Baby Tonight</string>
+			<key>Persistent ID</key><string>BCF771D2E1443A4E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>315</key>
+		<dict>
+			<key>Track ID</key><integer>315</integer>
+			<key>Name</key><string>Volcano</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>6904386</integer>
+			<key>Total Time</key><integer>194116</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-11T15:21:07Z</date>
+			<key>Date Added</key><date>2014-09-11T15:21:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>ゆ-つ-</string>
+			<key>Sort Name</key><string>Volcano</string>
+			<key>Persistent ID</key><string>14B7E4A209E4C129</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>317</key>
+		<dict>
+			<key>Track ID</key><integer>317</integer>
+			<key>Name</key><string>Cedarwood Road</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>9336108</integer>
+			<key>Total Time</key><integer>265268</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-11T15:21:07Z</date>
+			<key>Date Added</key><date>2014-09-11T15:21:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>ゆ-つ-</string>
+			<key>Sort Name</key><string>Cedarwood Road</string>
+			<key>Persistent ID</key><string>182863B8E7D5E1D8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>319</key>
+		<dict>
+			<key>Track ID</key><integer>319</integer>
+			<key>Name</key><string>Raised By Wolves</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>8636426</integer>
+			<key>Total Time</key><integer>245599</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-11T15:21:07Z</date>
+			<key>Date Added</key><date>2014-09-11T15:21:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>ゆ-つ-</string>
+			<key>Sort Name</key><string>Raised By Wolves</string>
+			<key>Persistent ID</key><string>4B685AC8D0EC9A49</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>321</key>
+		<dict>
+			<key>Track ID</key><integer>321</integer>
+			<key>Name</key><string>The Troubles</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>9928436</integer>
+			<key>Total Time</key><integer>285843</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-11T15:21:07Z</date>
+			<key>Date Added</key><date>2014-09-11T15:21:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>ゆ-つ-</string>
+			<key>Sort Name</key><string>The Troubles</string>
+			<key>Persistent ID</key><string>735F656E4BE9C8E3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>323</key>
+		<dict>
+			<key>Track ID</key><integer>323</integer>
+			<key>Name</key><string>This Is Where You Can Reach Me Now</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>10715123</integer>
+			<key>Total Time</key><integer>305134</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-11T15:21:07Z</date>
+			<key>Date Added</key><date>2014-09-11T15:21:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>ゆ-つ-</string>
+			<key>Sort Name</key><string>This Is Where You Can Reach Me Now</string>
+			<key>Persistent ID</key><string>BD39F8E14AB065C6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>327</key>
+		<dict>
+			<key>Track ID</key><integer>327</integer>
+			<key>Name</key><string>California (There Is No End to Love)</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>8465279</integer>
+			<key>Total Time</key><integer>239846</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-11T15:21:07Z</date>
+			<key>Date Added</key><date>2014-09-11T15:21:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>ゆ-つ-</string>
+			<key>Sort Name</key><string>California (There Is No End to Love)</string>
+			<key>Persistent ID</key><string>75167249E8F540F3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>329</key>
+		<dict>
+			<key>Track ID</key><integer>329</integer>
+			<key>Name</key><string>Every Breaking Wave</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>8842208</integer>
+			<key>Total Time</key><integer>252162</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-11T15:21:07Z</date>
+			<key>Date Added</key><date>2014-09-11T15:21:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>ゆ-つ-</string>
+			<key>Sort Name</key><string>Every Breaking Wave</string>
+			<key>Persistent ID</key><string>D4B99AF72D7C16B7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>331</key>
+		<dict>
+			<key>Track ID</key><integer>331</integer>
+			<key>Name</key><string>Song for Someone</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>8024225</integer>
+			<key>Total Time</key><integer>226763</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-11T15:21:07Z</date>
+			<key>Date Added</key><date>2014-09-11T15:21:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>ゆ-つ-</string>
+			<key>Sort Name</key><string>Song for Someone</string>
+			<key>Persistent ID</key><string>964173846BB8E8CD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>333</key>
+		<dict>
+			<key>Track ID</key><integer>333</integer>
+			<key>Name</key><string>Shake It Off</string>
+			<key>Artist</key><string>テイラー・スウィフト</string>
+			<key>Album Artist</key><string>テイラー・スウィフト</string>
+			<key>Composer</key><string>テイラー・スウィフト, マックス・マーティン &#38; シェルバック</string>
+			<key>Album</key><string>1989 (Deluxe)</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7901796</integer>
+			<key>Total Time</key><integer>219209</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2016-01-13T12:26:28Z</date>
+			<key>Date Added</key><date>2016-01-13T12:26:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-01-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>1989 (Deluxe)</string>
+			<key>Sort Artist</key><string>ていらーすうぃふと</string>
+			<key>Sort Name</key><string>Shake It Off</string>
+			<key>Persistent ID</key><string>C200DB555DAAE3F3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>335</key>
+		<dict>
+			<key>Track ID</key><integer>335</integer>
+			<key>Name</key><string>The Miracle (Of Joey Ramone)</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>9300291</integer>
+			<key>Total Time</key><integer>255382</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-11T15:21:07Z</date>
+			<key>Date Added</key><date>2014-09-11T15:21:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>ゆ-つ-</string>
+			<key>Sort Name</key><string>The Miracle (Of Joey Ramone)</string>
+			<key>Persistent ID</key><string>5DF91A715D2878C1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>337</key>
+		<dict>
+			<key>Track ID</key><integer>337</integer>
+			<key>Name</key><string>Iris (Hold Me Close)</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>11149865</integer>
+			<key>Total Time</key><integer>319457</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-11T15:21:07Z</date>
+			<key>Date Added</key><date>2014-09-11T15:21:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>ゆ-つ-</string>
+			<key>Sort Name</key><string>Iris (Hold Me Close)</string>
+			<key>Persistent ID</key><string>C6417684A112534B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>339</key>
+		<dict>
+			<key>Track ID</key><integer>339</integer>
+			<key>Name</key><string>Perfect</string>
+			<key>Artist</key><string>One Direction</string>
+			<key>Album Artist</key><string>One Direction</string>
+			<key>Composer</key><string>N/A</string>
+			<key>Album</key><string>Made In The A.M. (Deluxe Edition)</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>8163854</integer>
+			<key>Total Time</key><integer>230342</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T12:07:33Z</date>
+			<key>Date Added</key><date>2016-01-13T12:07:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Made In The A.M.</string>
+			<key>Sort Artist</key><string>わん だいれくしょん</string>
+			<key>Sort Name</key><string>Perfect</string>
+			<key>Persistent ID</key><string>F460735023C9DC18</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>341</key>
+		<dict>
+			<key>Track ID</key><integer>341</integer>
+			<key>Name</key><string>Drag Me Down</string>
+			<key>Artist</key><string>One Direction</string>
+			<key>Album Artist</key><string>One Direction</string>
+			<key>Composer</key><string>ジェイミー・スコット, ジュリアン・ブネッタ &#38; ジョン・ライアン</string>
+			<key>Album</key><string>Made In The A.M. (Deluxe Edition)</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>6904053</integer>
+			<key>Total Time</key><integer>192112</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-11-23T08:34:56Z</date>
+			<key>Date Added</key><date>2015-11-23T08:34:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Made In The A.M.</string>
+			<key>Sort Artist</key><string>わん だいれくしょん</string>
+			<key>Sort Name</key><string>Drag Me Down</string>
+			<key>Persistent ID</key><string>D8B49AB7EEB4DAE1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>343</key>
+		<dict>
+			<key>Track ID</key><integer>343</integer>
+			<key>Name</key><string>Black Magic</string>
+			<key>Artist</key><string>Little Mix</string>
+			<key>Album Artist</key><string>Little Mix</string>
+			<key>Composer</key><string>Edvard Erfjord, Henrik Michelsen, エド・ドレウェット &#38; Camille Purcell</string>
+			<key>Album</key><string>Black Magic - Single</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7791555</integer>
+			<key>Total Time</key><integer>211786</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-11-23T08:33:41Z</date>
+			<key>Date Added</key><date>2015-11-23T08:33:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-05-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Magic - Single</string>
+			<key>Sort Artist</key><string>りとるみっくす</string>
+			<key>Sort Name</key><string>Black Magic</string>
+			<key>Persistent ID</key><string>192A81BD7B28FDA9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>345</key>
+		<dict>
+			<key>Track ID</key><integer>345</integer>
+			<key>Name</key><string>Bulletproof vs. Release Me</string>
+			<key>Artist</key><string>The Outfit</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>ピッチ・パーフェクト - オリジナル・サウンドトラック (完全盤)</string>
+			<key>Genre</key><string>サウンドトラック</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7041907</integer>
+			<key>Total Time</key><integer>196226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T12:14:21Z</date>
+			<key>Date Added</key><date>2016-01-13T12:14:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-05-04T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ぴっち・ぱーふぇくと ‐ おりじなる・さうんどとらっく (かんぜんばん)</string>
+			<key>Sort Artist</key><string>The Outfit</string>
+			<key>Sort Name</key><string>Bulletproof vs. Release Me</string>
+			<key>Persistent ID</key><string>8277DE5D789CFC0F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>347</key>
+		<dict>
+			<key>Track ID</key><integer>347</integer>
+			<key>Name</key><string>Trust</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Jason Boyd &#38; Mark Jackson</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7211973</integer>
+			<key>Total Time</key><integer>203616</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>Trust</string>
+			<key>Persistent ID</key><string>F04E3E65161C8480</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>349</key>
+		<dict>
+			<key>Track ID</key><integer>349</integer>
+			<key>Name</key><string>Sorry</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, マイケル・タッカー, ソニー・ムーア, Julia Michaels &#38; justin tranter</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7159297</integer>
+			<key>Total Time</key><integer>200790</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-11-23T08:32:16Z</date>
+			<key>Date Added</key><date>2015-11-23T08:32:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>Sorry</string>
+			<key>Persistent ID</key><string>A8D1DF6CA3157741</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>351</key>
+		<dict>
+			<key>Track ID</key><integer>351</integer>
+			<key>Name</key><string>Love Yourself</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, エド・シーラン &#38; ベンジャミン・レヴィン</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>8214305</integer>
+			<key>Total Time</key><integer>233719</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>Love Yourself</string>
+			<key>Persistent ID</key><string>FDDFAD4113D3E87D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>353</key>
+		<dict>
+			<key>Track ID</key><integer>353</integer>
+			<key>Name</key><string>Company</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Jason Boyd, James Abrahart, Andreas Shuller, トーマス・トゥロルスン, ジェイムス・ウォン &#38; Leroy Clampitt</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7483414</integer>
+			<key>Total Time</key><integer>208128</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>Company</string>
+			<key>Persistent ID</key><string>F921FA27B8AB0593</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>355</key>
+		<dict>
+			<key>Track ID</key><integer>355</integer>
+			<key>Name</key><string>Mark My Words</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Jason Boyd &#38; マイケル・タッカー</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>4897620</integer>
+			<key>Total Time</key><integer>134349</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>Mark My Words</string>
+			<key>Persistent ID</key><string>F53251D20E3AF65D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>357</key>
+		<dict>
+			<key>Track ID</key><integer>357</integer>
+			<key>Name</key><string>I'll Show You</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Josh Gudwin, ソニー・ムーア, マイケル・タッカー &#38; Theron Feemster</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7024929</integer>
+			<key>Total Time</key><integer>199952</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>I'll Show You</string>
+			<key>Persistent ID</key><string>398E8EB59C0E4781</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>359</key>
+		<dict>
+			<key>Track ID</key><integer>359</integer>
+			<key>Name</key><string>What Do You Mean?</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Jason Boyd &#38; MASON LEVY</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7265071</integer>
+			<key>Total Time</key><integer>205676</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-11-23T08:31:49Z</date>
+			<key>Date Added</key><date>2015-11-23T08:31:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>What Do You Mean?</string>
+			<key>Persistent ID</key><string>A2D7A37BA0F54460</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>361</key>
+		<dict>
+			<key>Track ID</key><integer>361</integer>
+			<key>Name</key><string>Why? (Keep Your Head Down)</string>
+			<key>Artist</key><string>東方神起</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した MPEG-4 ビデオファイル</string>
+			<key>Size</key><integer>66639832</integer>
+			<key>Total Time</key><integer>287652</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-11-25T08:46:27Z</date>
+			<key>Date Added</key><date>2012-04-05T13:07:23Z</date>
+			<key>Release Date</key><date>2011-01-26T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>東方神起</string>
+			<key>Sort Name</key><string>Why? (Keep Your Head Down)</string>
+			<key>Persistent ID</key><string>DD698C96A6FE4EEA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Music Video</key><true/>
+		</dict>
+		<key>363</key>
+		<dict>
+			<key>Track ID</key><integer>363</integer>
+			<key>Name</key><string>Love Me Like You</string>
+			<key>Artist</key><string>Little Mix</string>
+			<key>Album Artist</key><string>Little Mix</string>
+			<key>Composer</key><string>スティーヴ・マック, Iain James, Camille Purcell &#38; James Newman</string>
+			<key>Album</key><string>Get Weird (Deluxe Edition)</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7217426</integer>
+			<key>Total Time</key><integer>197787</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-11-23T08:33:56Z</date>
+			<key>Date Added</key><date>2015-11-23T08:33:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Get Weird (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>りとるみっくす</string>
+			<key>Sort Name</key><string>Love Me Like You</string>
+			<key>Persistent ID</key><string>08966FD43AF700E5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>365</key>
+		<dict>
+			<key>Track ID</key><integer>365</integer>
+			<key>Name</key><string>Get Used To It</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Jason Boyd, ブランドン・グリーン, Josh Abraham, Ely Weisfeld, Nico Stadi, Josh Gudwin &#38; Saul Alexander Castillo Vasquez</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>8458247</integer>
+			<key>Total Time</key><integer>238135</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>Get Used To It</string>
+			<key>Persistent ID</key><string>65D1FC1D347F9BB0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>367</key>
+		<dict>
+			<key>Track ID</key><integer>367</integer>
+			<key>Name</key><string>We Are (feat. Nas)</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Jason Boyd, Andre Harris, Donovan Knight &#38; Nasir Jones</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7294766</integer>
+			<key>Total Time</key><integer>202957</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>We Are (feat. Nas)</string>
+			<key>Persistent ID</key><string>9D06B55275BA6AB8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>369</key>
+		<dict>
+			<key>Track ID</key><integer>369</integer>
+			<key>Name</key><string>Been You</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Jason Boyd, Josh Abraham, ブランドン・グリーン, Oliver Goldstein &#38; Saul Alexander Castillo Vasquez</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7085600</integer>
+			<key>Total Time</key><integer>199233</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>Been You</string>
+			<key>Persistent ID</key><string>C9F3F2776609F1AB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>371</key>
+		<dict>
+			<key>Track ID</key><integer>371</integer>
+			<key>Name</key><string>Home to Mama (feat. Cody Simpson)</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, コーディー・シンプソン, Tom Strahle, Andrew Watt, Josh Gudwin &#38; Sam Hook</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7285823</integer>
+			<key>Total Time</key><integer>203836</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>Home to Mama (feat. Cody Simpson)</string>
+			<key>Persistent ID</key><string>43FF2E953E0ED929</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>373</key>
+		<dict>
+			<key>Track ID</key><integer>373</integer>
+			<key>Name</key><string>Life Is Worth Living</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Jason Boyd &#38; Mark Jackson</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>8239214</integer>
+			<key>Total Time</key><integer>234800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>Life Is Worth Living</string>
+			<key>Persistent ID</key><string>29D48DF6B94B24DB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>375</key>
+		<dict>
+			<key>Track ID</key><integer>375</integer>
+			<key>Name</key><string>Where Are Ü Now</string>
+			<key>Artist</key><string>スクリレックス, Diplo &#38; ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, トーマス・ペンツ &#38; ソニー・ムーア</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>8566205</integer>
+			<key>Total Time</key><integer>242513</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>すくりれっくす, でぃぷろ &#38; じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>Where Are Ü Now</string>
+			<key>Persistent ID</key><string>E0E3CA2DFA421B1A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>377</key>
+		<dict>
+			<key>Track ID</key><integer>377</integer>
+			<key>Name</key><string>Children</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Jason Boyd, ソニー・ムーア, ブランドン・グリーン &#38; Nico Stadi</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7900608</integer>
+			<key>Total Time</key><integer>223326</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>Children</string>
+			<key>Persistent ID</key><string>62A876AC15E5E943</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>379</key>
+		<dict>
+			<key>Track ID</key><integer>379</integer>
+			<key>Name</key><string>Purpose</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Jason Boyd, Stephen Philibin, Eben Wares, Jeremy Snyder &#38; Scott "Scooter" Braun</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7463111</integer>
+			<key>Total Time</key><integer>210151</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>Purpose</string>
+			<key>Persistent ID</key><string>1EF757CC321A6C9E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>381</key>
+		<dict>
+			<key>Track ID</key><integer>381</integer>
+			<key>Name</key><string>All In It</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Jason Boyd, Mark Johnson, MASON LEVY &#38; Josh Gudwin</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>8080468</integer>
+			<key>Total Time</key><integer>231413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>All In It</string>
+			<key>Persistent ID</key><string>493F14ABA0A9FDCB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>383</key>
+		<dict>
+			<key>Track ID</key><integer>383</integer>
+			<key>Name</key><string>No Pressure (feat. Big Sean)</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Jason Boyd, Dominic Jordan, Jimmy Giannos &#38; SEAN ANDERSON</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>9930177</integer>
+			<key>Total Time</key><integer>286843</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>No Pressure (feat. Big Sean)</string>
+			<key>Persistent ID</key><string>AE04A7FE82FF7FB9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>385</key>
+		<dict>
+			<key>Track ID</key><integer>385</integer>
+			<key>Name</key><string>Hit the Ground</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Jason Boyd, Andrew Watt, Brian Lee, マイケル・タッカー &#38; ソニー・ムーア</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>8051830</integer>
+			<key>Total Time</key><integer>228097</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>Hit the Ground</string>
+			<key>Persistent ID</key><string>D76BA02FFA7FFC02</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>387</key>
+		<dict>
+			<key>Track ID</key><integer>387</integer>
+			<key>Name</key><string>No Sense (feat. Travis Scott)</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Jason Boyd, Kenneth Coby, Jacques Webster &#38; Mike Dean</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>9695242</integer>
+			<key>Total Time</key><integer>275038</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>No Sense (feat. Travis Scott)</string>
+			<key>Persistent ID</key><string>4BF3EE171901BA85</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>389</key>
+		<dict>
+			<key>Track ID</key><integer>389</integer>
+			<key>Name</key><string>The Most</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Jason Boyd, Karl Rubin, Jordan Ware &#38; Wallace, Joseph</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7117820</integer>
+			<key>Total Time</key><integer>200427</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>The Most</string>
+			<key>Persistent ID</key><string>FCAA9CDEF4108C2C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>391</key>
+		<dict>
+			<key>Track ID</key><integer>391</integer>
+			<key>Name</key><string>The Feeling (feat. Halsey)</string>
+			<key>Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Album Artist</key><string>ジャスティン・ビーバー</string>
+			<key>Composer</key><string>ジャスティン・ビーバー, Julia Michaels, Clarence Coffee Jr, Sarah Hudson, ソニー・ムーア &#38; イアンカークパトリック</string>
+			<key>Album</key><string>Purpose</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>8392171</integer>
+			<key>Total Time</key><integer>244916</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-13T11:52:42Z</date>
+			<key>Date Added</key><date>2016-01-13T11:52:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-11-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Purpose</string>
+			<key>Sort Artist</key><string>じゃすてぃんびーばー</string>
+			<key>Sort Name</key><string>The Feeling (feat. Halsey)</string>
+			<key>Persistent ID</key><string>464FB1DE285A5700</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>393</key>
+		<dict>
+			<key>Track ID</key><integer>393</integer>
+			<key>Name</key><string>Bo Peep Bo Peep</string>
+			<key>Artist</key><string>T-ARA</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>購入した MPEG-4 ビデオファイル</string>
+			<key>Size</key><integer>54337727</integer>
+			<key>Total Time</key><integer>234632</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-11-25T08:46:27Z</date>
+			<key>Date Added</key><date>2012-03-14T12:04:30Z</date>
+			<key>Release Date</key><date>2011-11-02T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>T-ARA</string>
+			<key>Sort Name</key><string>Bo Peep Bo Peep</string>
+			<key>Persistent ID</key><string>CBDB829BA7019EA7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Music Video</key><true/>
+		</dict>
+		<key>395</key>
+		<dict>
+			<key>Track ID</key><integer>395</integer>
+			<key>Name</key><string>We Came to Smash (In a Black Tuxedo) [feat. Dev]</string>
+			<key>Artist</key><string>マーティン・ソルヴェイグ</string>
+			<key>Album Artist</key><string>マーティン・ソルヴェイグ</string>
+			<key>Album</key><string>Smash</string>
+			<key>Genre</key><string>ダンス</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7228165</integer>
+			<key>Total Time</key><integer>203280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2016-01-13T12:16:24Z</date>
+			<key>Date Added</key><date>2016-01-13T12:16:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2011-08-31T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Smash</string>
+			<key>Sort Artist</key><string>まーてぃんそるゔぇぐ</string>
+			<key>Sort Name</key><string>We Came to Smash (In a Black Tuxedo) [feat. Dev]</string>
+			<key>Persistent ID</key><string>3BF5B9D115D1C203</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>397</key>
+		<dict>
+			<key>Track ID</key><integer>397</integer>
+			<key>Name</key><string>The Boys</string>
+			<key>Artist</key><string>少女時代</string>
+			<key>Genre</key><string>ポップ</string>
+			<key>Kind</key><string>購入した MPEG-4 ビデオファイル</string>
+			<key>Size</key><integer>73030767</integer>
+			<key>Total Time</key><integer>320120</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-11-25T08:46:27Z</date>
+			<key>Date Added</key><date>2012-03-14T11:55:22Z</date>
+			<key>Release Date</key><date>2011-01-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>少女時代</string>
+			<key>Sort Name</key><string>The Boys (English Version)</string>
+			<key>Persistent ID</key><string>044110A019C2FDB6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Music Video</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>ミュージック</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>517</integer>
+			<key>Playlist Persistent ID</key><string>97536BE24B5F4995</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>227</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>281</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>283</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>285</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>287</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>289</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>291</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>293</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>295</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>297</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>299</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>301</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>303</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>307</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>309</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>311</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>229</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>231</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>205</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>241</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>235</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>279</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>243</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>239</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>357</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>359</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>349</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>351</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>383</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>373</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>377</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>379</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>381</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>371</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>375</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>333</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>245</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>335</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>331</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>337</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>319</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>317</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>313</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>321</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>343</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>397</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>233</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
